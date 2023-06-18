@@ -1,8 +1,8 @@
 [
-    {"namaanggrek" : "Anggrek Bulan", "informasi" : "Phalaenopsis amabilis", "gambar" : "anggrek Bulan.jpg"}, 
-    {"namaanggrek" : "Anggrek Bulan Bintang", "informasi" : "Phalaenopsis violacea", "gambar" : "anggrek Bulan Bintang.jpg"},
-    {"namaanggrek" : "Anggrek Hitam" , "informasi" : "Coelogyne pandurata", "gambar" : "anggrek Hitam.jpg"},
-    {"namaanggrek" : "Anggrek Merpati", "informasi" : "Dendrobium crumenatum", "gambar" : "anggrek Merpati.jpg"},
-    {"namaanggrek" : "Anggrek Bulan Ungu", "informasi" : "Phalaenopsis amabilis",  "gambar" : "anggrek Bulan Ungu.jpg"},
-    {"namaanggrek" : "Anggrek Sendok", "informasi" : "Spathoglottis zurea", "gambar" : "anggrek Sendok.jpg"}
+    {"namaanggrek" : "Anggrek\nBulan", "informasi" : "Phalaenopsis\namabilis", "gambar" : "anggrek Bulan.jpg"}, 
+    {"namaanggrek" : "Anggrek\nBulan Bintang", "informasi" : "Phalaenopsis\nviolacea", "gambar" : "anggrek Bulan Bintang.jpg"},
+    {"namaanggrek" : "Anggrek\nHitam" , "informasi" : "Coelogyne\npandurata", "gambar" : "anggrek Hitam.jpg"},
+    {"namaanggrek" : "Anggrek\nMerpati", "informasi" : "Dendrobium\ncrumenatum", "gambar" : "anggrek Merpati.jpg"},
+    {"namaanggrek" : "Anggrek\nBulan Ungu", "informasi" : "Phalaenopsis\namabilis",  "gambar" : "anggrek Bulan Ungu.jpg"},
+    {"namaanggrek" : "Anggrek\nSendok", "informasi" : "Spathoglottis\nzurea", "gambar" : "anggrek Sendok.jpg"}
 ]
